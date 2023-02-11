@@ -1,0 +1,2 @@
+#!/bin/bash
+chowbn vincent:staff 
